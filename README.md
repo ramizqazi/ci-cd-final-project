@@ -1,6 +1,6 @@
-# CI/CD Tools and Practices Final Project - JavaScript/Node.js Version
+# CI/CD Tools and Practices Final Project Template
 
-ci-cd-final-project
+## ci-cd-final-project
 
 This repository contains a Node.js/Express.js version of the counter service for the Final Project of the Coursera course **CI/CD Tools and Practices**.
 
@@ -9,7 +9,7 @@ This repository contains a Node.js/Express.js version of the counter service for
 - RESTful API for managing counters
 - In-memory storage
 - Comprehensive error handling
-- Security middleware (Helmet, CORS)
+- Security middleware with Helmet and CORS
 - Logging middleware
 - Full test coverage with Jest
 - Docker support
@@ -27,6 +27,7 @@ This repository contains a Node.js/Express.js version of the counter service for
 
 ## Setup
 
-1. **Install dependencies:**
+1. Install dependencies:
+
    ```bash
    npm install
